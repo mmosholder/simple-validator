@@ -4,7 +4,7 @@
 // }
 // else {
 // 	alert("please enter a valid phone number xxx-xxx-xxxx")
-} 
+// } 
 
 // var birthDate = prompt("Please enter your birthdate");
 // if(birthDate.length === 8 && birthDate.charAt(2) === "/" && birthDate.charAt(5) === "/") {
@@ -34,7 +34,7 @@
 // }
 
 var married = prompt("Are you married?");
-if(married === ) {
+if(married.toUpperCase() === "YES" || married.toUpperCase() === "NO") {
 	alert("thanks!");
 }
 else {
