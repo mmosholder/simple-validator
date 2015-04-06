@@ -1,10 +1,10 @@
 // var phoneNumber = prompt("Please enter your phone number");
-// if(phoneNumber.charAt(3) === "-" && phoneNumber.charAt(7) === "-" ) {
+// if(isNaN(phoneNumber) === true && phoneNumber.charAt(3) === "-" && phoneNumber.charAt(7) === "-" ) {
 // 	alert("yes");
 // }
 // else {
 // 	alert("please enter a valid phone number xxx-xxx-xxxx")
-// } 
+} 
 
 // var birthDate = prompt("Please enter your birthdate");
 // if(birthDate.length === 8 && birthDate.charAt(2) === "/" && birthDate.charAt(5) === "/") {
@@ -34,7 +34,7 @@
 // }
 
 var married = prompt("Are you married?");
-if(married === yes) {
+if(married === ) {
 	alert("thanks!");
 }
 else {
