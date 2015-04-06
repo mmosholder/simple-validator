@@ -1,0 +1,4 @@
+var phoneNumber = prompt("Please enter your phone number");
+	if(phoneNumber.length === 10 && (phoneNumber.charAt(3) === "-") && (phoneNumber.charAt(7) === "-") {
+		alert("yes");
+	}
